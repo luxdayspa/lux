@@ -1,0 +1,587 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 12:11:14 Sep 15, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:27:16 Mar 29, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+html { height: 101%; }
+body
+{background: #2F0017 url('images/bgexp.jpg') no-repeat fixed center .3in;}
+
+/*COMMENTS
+     #BTwholething ------ > length of the background on Body Treatments
+     #BTSMmiddle  --------> length of the side menu background on Body Treatments*/
+
+
+
+*/
+
+
+
+
+#bottlepic
+{float: left;width: 143px;height: 196px;background-image: url('images/bottles.png');background-repeat: no-repeat;}
+#btnHome
+{float: left;width: 110px;height: 30px; background-position: 0px -458px;}
+#btnSpecials
+{float: left;width: 110px;height: 30px; background-position: 0px -529px;}
+#btnContact
+{float: left;width: 110px;height: 30px; background-position: 0px -618px;}
+#btnHome:hover
+{background-position: 0px -490px;}
+#btnSpecials:hover
+{background-position: 0px -574px;}
+#btnContact:hover
+{background-position: 0px -650px;}
+#btnBT
+{border: 1px solid transparent;background-position: 24px 0px; height:40px;}
+#btnBT:hover
+{border: 1px solid #FFFFFF;background-color: #18405F;}
+
+#jobop
+{border: 1px solid #FFFFFF;background-color: #18405F;text-align:center;}
+#jobop:hover
+{border: 1px solid #DBB445;background-color: #18405F;text-align:center;}
+#joboplink:hover
+{ color:#DBB445;}
+
+#btnBTSelected
+{border: 1px solid transparent;background-position: 24px -51px;height:40px;}
+#btnBTSelected:hover
+{border: 1px solid #FFFFFF;background-color: #18405F;}
+#btnHFT
+{border: 1px solid transparent;background-position: 24px -96px;height:40px;}
+#btnHFT:hover
+{border: 1px solid #FFFFFF;background-color: #18405F;}
+#btnHFTSelected
+{border: 1px solid transparent;background-position: 24px -145px;height:40px;}
+#btnHFTSelected:hover
+{border: 1px solid #FFFFFF;background-color: #18405F;}
+#btnMassages
+{border: 1px solid transparent;background-position: 24px -210px;height:24px;}
+#btnMassages:hover
+{border: 1px solid #FFFFFF;background-color: #18405F;}
+#btnMassagesSelected
+{border: 1px solid transparent;background-position: 24px -242px;height:24px;}
+#btnMassagesSelected:hover
+{border: 1px solid #FFFFFF;background-color: #18405F;}
+#btnFacial
+{border: 1px solid transparent;background-position: 24px -274px;height:24px;}
+#btnFacial:hover
+{border: 1px solid #FFFFFF;background-color: #18405F;}
+#btnFacialSelected
+{border: 1px solid transparent;background-position: 24px -306px;height:24px;}
+#btnFacialSelected:hover
+{border: 1px solid #FFFFFF;background-color: #18405F;}
+#btnWax
+{border: 1px solid transparent;background-position: 24px -338px;height:24px;}
+#btnWaxSelected
+{border: 1px solid transparent;background-position: 24px -370px;height:24px;}
+#btnWax:hover
+{border: 1px solid #FFFFFF;background-color: #18405F;}
+#btnWaxSelected:hover
+{border: 1px solid #FFFFFF;background-color: #18405F;}
+#btnPackages
+{border: 1px solid transparent;background-position: 24px -402px;height:24px;}
+#btnPackagesSelected
+{border: 1px solid transparent;background-position: 24px -434px;height:24px;}
+#btnPackages:hover
+{border: 1px solid #FFFFFF;background-color: #18405F;}
+#btnPackagesSelected:hover
+{border: 1px solid #FFFFFF;background-color: #18405F;}
+#bottom
+{height:10px;background-image: url('images/BTMsidemenu.png');background-repeat: no-repeat;}
+#BTSMmiddle /*length of the side menu background on Body Treatments*/
+{height: 1300px;
+}
+#BTspacer1
+{float:left; height: 1405px; 
+width: 23px;
+}
+#BTwholething /*length of the background on Body Treatments*/
+{height: 1300px;
+}
+#CONwholething
+{height: 500px;}
+#contbtncontain
+{float:left;width:110px;height:35px;}
+#contentcontainer
+{float:left;height:370px;background-color: #FFFFFF;text-align: center;width: 700px;}
+
+#contentmid
+{float:left;background-image: url('images/MIDcontent.png');width:704px;}
+#DEFcontentmid
+{float:left;background-image: url('images/MIDcontent.png');width:704px;height: 439px;}
+
+#DEFspacer1
+{float:left; width: 348px; height: 23px;}
+#DEFspacer2
+{float:left; width: 53px; height: 232px;}
+#DEFspacer3
+{height: 47px;}
+#DEFspacer4
+{float:left; width: 281px; height: 22px;}
+#divcontainer
+{width:100%;margin-left: auto;margin-right: auto;width: 60.8em;text-align: left;}
+#FACmiddle /*length of the background of side menu on Facials*/
+{height: 1400px;}
+#FACspacer1
+{float:left; height:1416px; width:23px;}
+#FACspacer2
+{float:left; height:14px; width:596px;}
+#FACspacer3
+{float:left; width:624px; height:10px;}
+#FACwholething /*length of the background on Facial Treatments*/
+{height: 1400px;}
+#head2knee
+{float: left;background-image:url('images/womanbeach.jpg');background-repeat: no-repeat;width:240px;height:196px;}
+#headheading
+{float:left;height: 99px;width:529px;
+}
+#headleftmarg
+{float:left;height:138px;width:38px;}
+#headline
+{float: left;width:897px;height: 3px;background-image: url('images/bar.png');}
+#headlineLM
+{float:left;width:71px;
+height:29px;
+}
+#headluxury
+{float: left;background-image: url('images/LUX.png');width:392px;height:41px;}
+#headspace1
+{height: 56px;}
+#headspace2
+{height: 43px;}
+#HFSMmiddle /*length of the background of side menu on Hand and foot Treatments*/
+{height: 1450px;}
+#HFspacer1
+{float:left; height: 1619px; 
+width: 23px;
+}
+#HFwholething /*length of the background on Hand and Foot Treatments*/
+{height: 1450px;}
+#homebtncontain
+{float:left;width:110px;height:35px;}
+#imgluxury
+{width:392px;height:41px;}
+
+#imgmassagediv
+{border: 1px solid #FFFFFF;float: left;width: 260px;background-image: url('images/massage260.jpg');height:172px;}
+#imgvisit
+{width:252px;height:164px;}
+#imgvisitdiv
+{float: left;width: 252px;height: 164px;background-image: url('images/visitwords.png');}
+#JOBSMmiddle
+{height: 500px;
+}
+#JOBwholething
+{height: 500px;
+}
+#marginleft
+{float:left;width:40px;height:317px;}
+#MASScontainer
+{float:left; width:400px;}
+#MASSmiddle
+{height: 500px;}
+#MASSspacer1
+{float:left;width: 596px; height: 10px;}
+#MASSspacer2
+{float:left;height:14px; width: 560px;}
+#MASSspacer3
+{height: 21px;}
+#MASSspacer4
+{height: 41px;}
+#MASSwholething
+{height: 500px;}
+#MBleftmarg
+{float:left;width: 20px;height: 28px;}
+#MBspace1
+{height: 4px;}
+#MBspace2
+{float:left;width:40px;height:40px;}
+#MBspace3
+{height: 4px;}
+#MBspace4
+{clear:both; height: 1px;}
+/*#middefault
+{height:441px;}*/
+#midcontact
+{height:500px;}
+#menubar
+{float:left;height: 35px;width: 889px;}
+#packmiddle
+{height:867px;}
+#PACKwholething
+{height: 865px;
+}
+#separate
+{float:left;height: 99px;width: 18px;}
+#SPASMmiddle
+{height: 800px;
+}
+#SPAwholething
+{height: 800px;
+}
+
+#specSMmiddle
+{height:400px;}
+#SPECspacer1
+{float:left; height:500px; width:23px;}
+#SPECwholething
+{
+    height: 400px;
+   /* background-image: url('/web/20130915121114/http://luxdayspa.com/images/eyelashes.jpg');
+    background-repeat: no-repeat;*/
+}
+#waxpics
+{float:left; width: 640px;height:196px;}
+#waxSMmiddle
+{height:750px;}
+#WAXspacer1
+{float:left; height:800px; width:23px;}
+#WAXwholething
+{height: 750px;}
+#thecontent
+{float:left;width:724px;}
+#thelogo
+{float: left;width: 197px;height: 102px;background-image: url('images/luxwhitelogo.png');background-repeat: no-repeat;}
+#theslides
+{width:350px;height:250px;}
+#VU
+{border: 1px solid #FFFFFF;}
+img
+{border-style: none;
+    height: 97px;
+    width: 262px;
+}
+.btwnmassage
+{width:40px;float:left;}
+.BTstyle2
+{color: #FFFFFF;font-family: "Arial Unicode MS";float:left;width: 596px;}
+.BTstyle2S
+{
+    color: #FFFFFF;
+    font-family: "Arial Unicode MS";
+    float: left;
+    width: 596px;
+    font-size: small;
+}
+.BTstyle3
+{border-bottom: 1px solid #FFFFFF; float:left; height:14px; width: 626px;}
+.BTstyle4
+{float:left; width: 624px;}
+.BTstyle5
+{float:left;width: 221px;height: 28px;color: #FFFFFF;font-family: "Arial Unicode MS";}
+.buttonspace
+{width:40px;height:40px;}
+.buttonspace2
+{width:40px;height:40px;float:left;}
+.bottomspace
+{height:32px;}
+.col1
+{float:left;width: 173px;height: 28px;color: #FFFFFF;font-family: "Arial Unicode MS";}
+.colspace1
+{float:left;width: 33px;height: 28px;}
+
+
+.contentspacer
+{width:15px;height:500px;float:left;}
+
+
+.contBGRepeater
+{float:left;width: 704px;height:10px;background-image: url('images/littlebg2.png');background-repeat: repeat-y;}
+.contBGRepeater2
+{float:left;width: 704px;height:10px;background-image: url('images/TOPcontent.png');background-repeat: repeat-y;}
+.contentbtm
+{
+float:left;
+height:10px;
+width: 704px;
+background-image: url('images/BTMcontent.png');
+background-repeat: no-repeat;
+}
+.contenttop
+{
+height:10px;
+float:left;
+width:704px;
+background-image: url('images/TOPcontent.png');
+background-repeat: no-repeat;
+}
+.extra
+{
+color: #FFFFFF;
+font-family: "Arial Unicode MS";
+float:left;
+width:20px;
+}
+.FACstyle1
+{
+float:left; width: 80px;
+}
+.FACstyle2
+{
+color: #FFFFFF;
+font-family: "Arial Unicode MS";
+float:left;
+width: 89px;
+text-align: right;
+}
+.FACstyle3
+{
+color: #FFFFFF;
+font-family: "Arial Unicode MS";
+float:left;
+width: 70px;
+}
+.FACstyle4
+{
+color: #FFFFFF;
+font-family: "Arial Unicode MS";
+float:left;
+width: 624px;
+}
+.FACstyle5
+{
+border-bottom: 1px solid #FFFFFF;float:left; width: 596px; height: 10px;
+}
+.floater
+{
+float:left;
+}
+.headclearbody
+{
+clear:both;
+}
+.headingrow
+{
+float:left;
+width: 635px;
+color: #DBB45B;
+font-family: "Sakkal Majalla";
+font-size: xx-large;
+}
+.headingrow2
+{
+float: left;
+width: 635px;
+color: #DBB45B;
+font-family: "Sakkal Majalla";
+font-size: x-large;
+}
+.leftmarg
+{
+width:38px;
+height:500px;
+float:left;
+}
+.littlebgcon
+{float:left;background-image: url('images/littlebg2.png');width: 673px;background-repeat: repeat-y;}
+
+.luxsm
+{
+background-image: url('images/LUXSM.png');
+background-repeat: no-repeat;
+cursor: pointer;
+}
+.massageleftcol
+{
+float:left;
+width: 30px;
+}
+.massagecell
+{
+width:199px;
+color: #FFFFFF;
+font-family: "Arial Unicode MS";
+float:left;
+}
+.massageprice
+{
+color: #FFFFFF;
+font-family: "Arial Unicode MS";
+float:left;
+text-align: right;
+width: 65px;
+height: 21px;
+}
+.massagerow
+{
+color: #FFFFFF;
+font-family: "Arial Unicode MS";
+float:left;
+width: 350px;
+
+}
+.massagerowspace
+{
+float:left;
+width: 400px;
+height:15px;
+}
+.sidemenubg
+{
+background-image: url('images/MIDsidemenu.png');
+background-repeat: repeat-y;
+}
+
+.sidemenubgHOME
+{
+    height:441px;
+    background-image: url('images/MIDsidemenu.png');
+    background-repeat: repeat-y;
+}
+.row560
+{
+color: #FFFFFF;
+font-family: "Arial Unicode MS";
+float:left;
+width: 460px;
+}
+.trow
+{
+color: #FFFFFF;
+font-family: "Arial Unicode MS";
+float:left;
+width: 450px;
+}
+.sidemenubtnspace
+{
+height:25px;
+
+}
+.sidemenudiv
+{
+float:left;
+width:170px;
+}
+.SMleftmarg
+{
+float:left;
+width:24px;
+height: 430px;
+}
+.special1
+{
+float:left; width: 592px; height: 137px;
+}
+.special2
+{
+
+color: #FFFFFF;
+font-family: "Arial Unicode MS";
+float:left; width: 294px; height: 130px;
+}
+.special3
+{
+
+float:left; width: 11px;
+    height: 111px;
+}
+.special4
+{
+float:left; background-image: url('/images/beyond.png'); background-repeat: no-repeat; width: 195px; height: 113px; cursor:pointer;
+}
+.thirty
+{
+height:30px;
+}
+.top
+{
+height:10px;
+}
+.topsidemenu
+{
+width:180px;
+height: 10px;
+}
+.WAXcell
+{
+width:220px;
+color: #FFFFFF;
+font-family: "Arial Unicode MS";
+float:left;
+}
+.WAXstyle1
+{
+float:left; width: 20px;
+}
+.Body-C0
+{
+font-family:"Arial", sans-serif; font-weight:700; font-size:19.0px;
+line-height:1.21em; color:#ffffff;
+}
+.style1
+{
+color: #DBB45B;
+font-family: "Sakkal Majalla";
+font-size: xx-large;
+}
+.style2
+{
+color: #FFFFFF;
+font-family: "Arial Unicode MS";
+}
+.style3
+{
+width: 199px;
+color: #DBB45B;
+font-family: "Arial Unicode MS";
+float: left;
+}
+.style4
+{
+width: 142px;
+border: 2px solid #FFFFFF;
+}
+.style4TWO
+{
+width: 142px;
+height:196px;
+border: 2px solid #FFFFFF;
+}
+.style5
+{
+width:200px;
+height:132px;
+border: 2px solid #FFFFFF;
+}
+ .style6
+{
+color:#DBB45B;
+font-family: Arial;
+font-size: small;
+}
+.style7
+{
+color:#DBB45B;
+font-family: Arial;
+font-size: small;
+text-decoration: underline;
+}
+.style8
+{
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: bold;
+}
+.constyle6
+        {
+            text-decoration: underline;
+        }
+.constyle7
+        {
+            color: #DBB45B;
+        }
+.constyle9
+    {
+        color: #DBB445;
+    }
